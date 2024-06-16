@@ -109,8 +109,8 @@ import mysql.connector
 
 mydb = mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="9899",
+    user="abhi",
+    password="1234",
     database="speedtest"
 )
 
